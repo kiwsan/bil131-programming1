@@ -2,7 +2,7 @@
 
 ## 🚀 Quick start
 
-### Compiling the code
+### Compiling
 
     $ gcc helloworld.c -o helloworld
 
